@@ -18,7 +18,7 @@ package main
 import (
     "fmt"
 
-    "github.com/nickname32/discordhook"
+    "github.com/graph-labs-io/discordhook"
 )
 
 func main() {

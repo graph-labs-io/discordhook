@@ -1,4 +1,4 @@
-module github.com/nickname32/discordhook
+module github.com/graph-labs-io/discordhook
 
 go 1.16
 
